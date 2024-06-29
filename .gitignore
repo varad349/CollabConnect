@@ -1,0 +1,15 @@
+# Python virtual environment
+Collab/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+
+# Environment variables
+.env
+
+# Logs and other unwanted files
+*.log
+.DS_Store
+*.swp
